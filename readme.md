@@ -35,7 +35,7 @@ Teachable Machine</a> and add that to the ```constants.js```. After that follow 
 mentioned above
 
 <h4>Demo 👨‍💻</h4>
-<img src="demos/gifAllThree" alt="demo gif">
+<img src="demos/compressed.gif" alt="demo gif">
 
 <h4>Disabling/Removing</h4>
 If you want to temporarily disable the extension, it is better suited to toggle off the extension
