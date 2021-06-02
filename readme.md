@@ -29,15 +29,18 @@
 - Guess what raising your hand does 🤔 ?
 
 <h4>Note 🗒️</h4>
+
 If you feel that the accuracy of the model is off by quite a bit, you can train your own
 <a href="https://www.tensorflow.org/js">tensorflow.js</a> model from <a href="https://teachablemachine.withgoogle.com/">
 Teachable Machine</a> and add that to the `constants.js`. After that follow the alternative installation steps
 mentioned above
 
 <h4>Demo 👨‍💻</h4>
+
 <img src="demos/compressed.gif" alt="demo gif">
 
 <h4>Disabling/Removing</h4>
+
 If you want to temporarily disable the extension, it is better suited to toggle off the extension
 from <a href="chrome://extensions/">chrome://extensions</a>. For removing, simply click `Remove` in the extensions
 tab.
