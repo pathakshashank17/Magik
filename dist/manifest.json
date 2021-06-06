@@ -2,7 +2,7 @@
   "name": "Magik",
   "version": "1.0.0",
   "description": "Use teachable machine to operate Google Meet",
-  "permissions": ["activeTab", "storage", "tabs"],
+  "permissions": ["storage"],
   "background": {
     "scripts": ["src/background.js"],
     "persistent": true
