@@ -10,9 +10,9 @@
 - People with reduced motor function.
 
 <h4>Installation 🎉</h4>
-
-- Install from <a href="">Chrome Web Store</a>
-- Alternatively:
+ 
+- Install from <a href="https://chrome.google.com/webstore/detail/magik/adlilndhjcgcmcikngkniaokhkkoalih?hl=en&authuser=0">Chrome Web Store</a> (recommended)
+- Alternatively: (if you wish to train your own model)
     - Clone/Download this repo
     - (Optional) Make changes in the source code, like adding your own Teachable Machine model.
     - If you have npm installed, run `npm i` to install all the packages.
