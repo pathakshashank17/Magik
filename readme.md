@@ -45,4 +45,8 @@ If you want to temporarily disable the extension, it is better suited to toggle 
 from <a href="chrome://extensions/">chrome://extensions</a>. For removing, simply click `Remove` in the extensions
 tab.
 
+<h4>Huge credits</h4>
+
+This was highly derived from [Presto412's extension](https://github.com/Presto412/Google-Meet-Mute-Gesture). I apologize for not giving him proper credits. This is merely an enhancement to his extension.
+
 <p align="center">All contributions and issues are welcome 🤗.</p>
