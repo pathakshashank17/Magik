@@ -47,6 +47,6 @@ tab.
 
 <h4>Huge credits</h4>
 
-Thanks to [Presto412](https://github.com/Presto412) for his extension with the same functionality. It helped me understand the working and implementation of this idea. I apologize for not giving him proper credits. Please checkout his [extension](https://github.com/Presto412/Google-Meet-Mute-Gesture) for the `Typescript` implementation with cooler UI.
+Thanks to [Presto412](https://github.com/Presto412) for his extension with the same functionality. It helped me understand the working and implementation of this idea. Please checkout his [extension](https://github.com/Presto412/Google-Meet-Mute-Gesture) for the `Typescript` implementation with cooler UI.
 
 <p align="center">All contributions and issues are welcome 🤗.</p>
